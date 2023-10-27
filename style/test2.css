@@ -1,0 +1,13 @@
+.container-fluid {
+    background-color: #9022b7;
+    margin-top: -8px;
+    padding: 25px;
+}
+.nav-item {
+ font-weight: bold;
+ font-size: 20px;
+ padding-right: 100px;
+}
+.nav-link {
+    color: #ffc700;
+}
